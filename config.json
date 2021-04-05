@@ -1,0 +1,11 @@
+{ 
+    "token":  "your token here",
+    "password": "your account pass", 
+    "prefix": ".",
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+
+    "stream_url": "",
+    "tts_language": "en"
+}
